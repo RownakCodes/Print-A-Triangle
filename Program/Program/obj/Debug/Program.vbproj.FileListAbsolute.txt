@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Program\Program\bin\Debug\Program.exe.config
+C:\Users\User\source\repos\Program\Program\bin\Debug\Program.exe
+C:\Users\User\source\repos\Program\Program\bin\Debug\Program.pdb
+C:\Users\User\source\repos\Program\Program\bin\Debug\Program.xml
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.Resources.resources
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.exe
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.xml
+C:\Users\User\source\repos\Program\Program\obj\Debug\Program.pdb
